@@ -1,5 +1,5 @@
 # Douglas de Santana Ramos  
-📍 Palhoça – SC | 📞 (48) 99663-5252 | 📧 ramos.ti@live.com  
+📍 Palhoça – SC | 📞[(48) 99663-5252](https://wa.me/48996635252) | 📧[ramos.ti@live.com](mailto:ramos.ti@live.com)
 🔗 [LinkedIn](https://linkedin.com/in/idealista07 ) | 💻 [GitHub](https://github.com/idealista07 )
 
 ---
