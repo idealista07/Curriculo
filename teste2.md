@@ -1,6 +1,7 @@
 <div align="center">
-  [idealista07.github.io/img/profile.png](https://github.com/idealista07/idealista07.github.io/tree/main/img/profile.png)
-</div>
+  <a href="https://github.com/idealista07">
+    <img src="https://avatars.githubusercontent.com/u/idealista07?v=4 " width="180" height="180" alt="Douglas Ramos GitHub Profile Picture" />
+  </a></div>
 
 <h1 align="center">👋 Olá, eu sou Douglas Ramos</h1>
 <p align="center">
