@@ -7,7 +7,7 @@
 
 <p align="center">
   📍 Palhoça, SC &nbsp;|&nbsp; 📱 <a href="https://wa.me/5548996635252">Whatsapp</a> &nbsp;|&nbsp; ✉️ <a href="mailto:ramos.ti@live.com">Email</a><br>
-  🔗 <a href="https://linkedin.com/in/idealista07">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/idealista07">GitHub</a>
+  🔗 <a href="https://linkedin.com/in/idealista07">LinkedIn</a> &nbsp;|&nbsp; :octocat: <a href="https://github.com/idealista07">GitHub</a>
 </p>
 
 ---
